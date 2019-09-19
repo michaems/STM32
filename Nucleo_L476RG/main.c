@@ -1,6 +1,4 @@
 #include "stm32L476xx.h"
-#include "stm32L4xx_hal.h"
-#include "stm32L4xx_hal_gpio.h"
 
 #include <cmsis_os.h>
 #include "Board_led.h"

@@ -228,12 +228,12 @@
     <File>
       <GroupNumber>1</GroupNumber>
       <FileNumber>2</FileNumber>
-      <FileType>5</FileType>
+      <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h</PathWithFileName>
-      <FilenameWithoutPath>stm32l476xx.h</FilenameWithoutPath>
+      <PathWithFileName>.\Thread.c</PathWithFileName>
+      <FilenameWithoutPath>Thread.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -244,44 +244,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal.h</PathWithFileName>
-      <FilenameWithoutPath>stm32l4xx_hal.h</FilenameWithoutPath>
-      <RteFlg>0</RteFlg>
-      <bShared>0</bShared>
-    </File>
-    <File>
-      <GroupNumber>1</GroupNumber>
-      <FileNumber>4</FileNumber>
-      <FileType>5</FileType>
-      <tvExp>0</tvExp>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio.h</PathWithFileName>
-      <FilenameWithoutPath>stm32l4xx_hal_gpio.h</FilenameWithoutPath>
-      <RteFlg>0</RteFlg>
-      <bShared>0</bShared>
-    </File>
-    <File>
-      <GroupNumber>1</GroupNumber>
-      <FileNumber>5</FileNumber>
-      <FileType>5</FileType>
-      <tvExp>0</tvExp>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim.h</PathWithFileName>
-      <FilenameWithoutPath>stm32l4xx_hal_tim.h</FilenameWithoutPath>
-      <RteFlg>0</RteFlg>
-      <bShared>0</bShared>
-    </File>
-    <File>
-      <GroupNumber>1</GroupNumber>
-      <FileNumber>6</FileNumber>
-      <FileType>1</FileType>
-      <tvExp>0</tvExp>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <bDave2>0</bDave2>
-      <PathWithFileName>.\Thread.c</PathWithFileName>
-      <FilenameWithoutPath>Thread.c</FilenameWithoutPath>
+      <PathWithFileName>..\..\..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h</PathWithFileName>
+      <FilenameWithoutPath>stm32l476xx.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\</IncludePath>
+              <IncludePath>..\..\..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -388,29 +388,14 @@
               <FilePath>.\main.c</FilePath>
             </File>
             <File>
-              <FileName>stm32l476xx.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h</FilePath>
-            </File>
-            <File>
-              <FileName>stm32l4xx_hal.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal.h</FilePath>
-            </File>
-            <File>
-              <FileName>stm32l4xx_hal_gpio.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio.h</FilePath>
-            </File>
-            <File>
-              <FileName>stm32l4xx_hal_tim.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim.h</FilePath>
-            </File>
-            <File>
               <FileName>Thread.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Thread.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32l476xx.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\..\..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h</FilePath>
             </File>
           </Files>
         </Group>
