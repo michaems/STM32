@@ -1,0 +1,134 @@
+Dependencies for Project 'Nucleo_L476RG_PR_4', Target 'Target_Interrupts': (DO NOT MODIFY !)
+F (.\main.c)(0x5D82075F)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32L476xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32L4xx_hal.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_conf.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rcc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_def.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l4xx.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x5B60091E)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rcc_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dma.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dfsdm.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_cortex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_adc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_ll_adc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_adc_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_can.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_comp.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_ll_exti.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_crc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_crc_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_cryp.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dac.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dac_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dcmi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dma2d.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dsi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_firewall.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ramfunc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_hash.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_sram.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_ll_fmc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_nor.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_nand.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_i2c.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_i2c_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_iwdg.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_lcd.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_lptim.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_ltdc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_opamp.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_opamp_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_ospi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pwr.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pwr_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_qspi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rng.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rtc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rtc_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_sai.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_sd.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_ll_sdmmc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_smbus.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_spi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_spi_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_swpmi.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tsc.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_uart.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_uart_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_usart.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_usart_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_irda.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_irda_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_smartcard.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_smartcard_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_wwdg.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pcd.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_ll_usb.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pcd_ex.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_hcd.h)(0x5B60091E)
+I (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gfxmmu.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A6ACC)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board\Board_led.h)(0x5877461C)
+F (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h)(0x5B60091E)()
+F (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal.h)(0x5B60091E)()
+F (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio.h)(0x5B60091E)()
+F (..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim.h)(0x5B60091E)()
+F (.\Thread.c)(0x5C8A6ACC)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\thread.o --omf_browse .\objects\thread.crf --depend .\objects\thread.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A6ACC)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+F (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32NUCLEO_BSP\1.7.0\Boards\ST\NUCLEO-L476RG\Common\Buttons_NUCLEO-L476RG.c)(0x56C5BD94)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\buttons_nucleo-l476rg.o --omf_browse .\objects\buttons_nucleo-l476rg.crf --depend .\objects\buttons_nucleo-l476rg.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l4xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board\Board_Buttons.h)(0x5877461C)
+F (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32NUCLEO_BSP\1.7.0\Boards\ST\NUCLEO-L476RG\Common\LED_NUCLEO-L476RG.c)(0x5ADD700E)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\led_nucleo-l476rg.o --omf_browse .\objects\led_nucleo-l476rg.crf --depend .\objects\led_nucleo-l476rg.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l4xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board\Board_LED.h)(0x5877461C)
+F (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib)(0x5D25D708)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x5C8A6ACC)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A6ACC)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x5D25D708)
+F (RTE\Device\STM32L476RGTx\startup_stm32l476xx.s)(0x5B60091E)(--cpu Cortex-M4.fp --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32L476xx SETA 1"--list .\listings\startup_stm32l476xx.lst --xref -o .\objects\startup_stm32l476xx.o --depend .\objects\startup_stm32l476xx.d)
+F (RTE\Device\STM32L476RGTx\system_stm32l4xx.c)(0x5B60091E)(--c99 --gnu -c --cpu Cortex-M4.fp -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\STM32L4xx_HAL_Driver\Inc-I.\RTE\_Target_Interrupts-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS\RTX\INC-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.8.0\Board-IC:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L476xx-o .\objects\system_stm32l4xx.o --omf_browse .\objects\system_stm32l4xx.crf --depend .\objects\system_stm32l4xx.d)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l4xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h)(0x5B60091E)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\ett14478\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h)(0x5B60091E)
